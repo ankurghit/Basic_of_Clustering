@@ -1,1 +1,1 @@
-# Basic_of_Clustering
+# Basic_of_k_meansClustering
